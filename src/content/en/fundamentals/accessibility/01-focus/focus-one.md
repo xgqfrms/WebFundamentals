@@ -1,21 +1,17 @@
 ---
-layout: shared/narrow
-title: "Accessibility Codelab"
-description: "Accessibility Codelab"
+layout: shared/narrow-pages-list
+title: "Focus"
+description: "An overview of the role of focus in accessibility"
 published_on: 2016-03-01
 updated_on: 2016-03-01
-order: 7
+order: 1
 translation_priority: 0
 authors:
   - megginkearney
   - dgash
 key-takeaways:
   tldr: 
-    - "Learn what accessibility means and how it applies to web development."
-    - "Learn how to make web sites accessible and usable for everyone."
-    - "Learn how to include basic accessibility with minimal development impace."
-    - "Learn what HTML features are available and how to use them to improve accessibility."
-    - "Learn about advanced accessibility techniques for creating polished accessibility experiences."
+    - "Learn what focus is and how it affects accessibility efforts."
 notes:
   efficiency:
     - "Understanding the accessibility issue, its scope, and its impact can make you a better web developer."
@@ -23,7 +19,7 @@ notes:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
 ---
 
-# Overview
+{% include shared/takeaway.liquid list=page.key-takeaways.tldr %}
 
 In this lesson we'll talk about *focus* and how you can manage it in your application. In a nutshell, screen focus refers to which *control* (an input item such as a field, checkbox, button, or link) on the screen currently receives input from the keyboard (and from the clipboard when you paste content).
 
