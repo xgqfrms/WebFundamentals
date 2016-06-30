@@ -1,10 +1,10 @@
 ---
 layout: shared/narrow
-title: "Accessibility Codelab"
-description: "Accessibility Codelab"
+title: "Modals and Keyboard Traps"
+description: "Examine the use of modal windows and keyboard traps in accessibility"
 published_on: 2016-03-01
 updated_on: 2016-03-01
-order: 14
+order: 8
 translation_priority: 0
 authors:
   - megginkearney
@@ -22,8 +22,6 @@ notes:
   problem-solving:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
 ---
-
-# Modals and Keyboard Traps
 
 Sometimes when you're managing focus you can get into a situation you can't get out of. Consider an autocomplete widget that tries to manage focus and captures the tab behavior, but prevents the user from leaving it until it's complete. This is a *keyboard trap*, and it can be very frustrating for the user. Section 2.1.2 of the Web AIM checklist addresses this issue, stating that keyboard focus should never be locked or trapped at one particular page element. The user should be able to navigate to and from all page elements using only the keyboard.
 
