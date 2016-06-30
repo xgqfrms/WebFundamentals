@@ -1,7 +1,7 @@
 ---
 layout: shared/narrow-pages-list
 title: "Get Started"
-description: "Learn the basics of accessibility, what it means and why it's important."
+description: "Learn the basics of accessibility, what it means, and why it's important."
 published_on: 2016-03-01
 updated_on: 2016-03-01
 order: 1
@@ -12,10 +12,6 @@ authors:
 key-takeaways:
   tldr: 
     - "Learn what accessibility means and how it applies to web development."
-    - "Learn how to make web sites accessible and usable for everyone."
-    - "Learn how to include basic accessibility with minimal development impace."
-    - "Learn what HTML features are available and how to use them to improve accessibility."
-    - "Learn about advanced accessibility techniques for creating polished accessibility experiences."
 notes:
   problem-solving:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
