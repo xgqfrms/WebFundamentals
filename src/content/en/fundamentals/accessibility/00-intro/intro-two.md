@@ -1,7 +1,7 @@
 ---
-layout: shared/narrow-pages-list
+layout: shared/narrow
 title: "What Is Accessibility?"
-description: "Accessibility Codelab"
+description: "Explore what it means for a site to be accessible"
 published_on: 2016-03-01
 updated_on: 2016-03-01
 order: 2
@@ -29,11 +29,11 @@ Accessibility, then, refers to the experience of users who might be outside the 
 
 For example, although we tend to center our discussion of accessibility on users with physical impairments, we can all relate to the experience of using an interface that is not accessible to us for other reasons. Have you ever had a problem using a desktop site on a mobile phone, or seen the message "This content is not available in your area", or been unable to find a familiar menu on a tablet? Those are accessibility issues too.
 
-As you learn more, you'll find that addressing accessibility issues in this broader, more general sense almost always improves the user experience for everyone. Let's look at an example with some accessibility issues.
+As you learn more, you'll find that addressing accessibility issues in this broader, more general sense almost always improves the user experience for everyone. Let's look at an example with some accessibility faults.
 
 ![pooraccess.png](imgs/pooraccess.png)
 
-This form has several accessibility issues.
+This form has several accessibility problems.
 
  - The text is low contrast, which is hard for low-vision users to read.
  - Having labels on the left and fields on the right makes it hard for many people to associate them, and almost impossible for a someone who needs to zoom in to use the page; imagine looking at this on a phone and having to pan around to figure out what goes with what.
