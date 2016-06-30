@@ -1,7 +1,7 @@
 ---
 layout: shared/narrow
 title: "Understanding Users' Diversity"
-description: "Accessibility Codelab"
+description: "An interview with Victor Tsaran"
 published_on: 2016-03-01
 updated_on: 2016-03-01
 order: 3
