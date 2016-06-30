@@ -1,7 +1,7 @@
 ---
 layout: shared/narrow
-title: "Accessibility Codelab"
-description: "Accessibility Codelab"
+title: "Screen Readers"
+description: "Introduction to Screen Reader software"
 published_on: 2016-03-01
 updated_on: 2016-03-01
 order: 4
@@ -23,8 +23,6 @@ notes:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
 ---
 
-# Screen Readers
-
 Accessibility is about understanding the experience of a diverse range of users. One popular type of software is the *screen reader*, a program that enables visually impaired people to use computers by reading the text on the screen in a generated voice. The user can control what is read by moving the cursor to a relevant area with the mouse or keyboard.
 
 We asked Victor Tsaran to explain how, as a blind person, he accesses the web using a free screen reader for Windows called NonVisual Desktop Access, or NVDA.
@@ -44,8 +42,6 @@ We asked Victor Tsaran to explain how, as a blind person, he accesses the web us
 ![BBC menu 2](bbcmenu2.png)
 
 >With NVDA, I have the option to change the speed of the reader's speaking voice. I can set it to speak really fast, but honestly it's just like learning to read visually &mdash; at first you have to go slow, but you learn to recognize words at a faster and faster rate. That way, I can consume the content as quickly as a sighted person.
-
-## Hands-on exercise
 
 Now, it's your turn to try using a screen reader. Here is a page with *ChromeVox Lite*, a minimal but functioning screen reader written in Javascript. The screen is purposefully blurred to simulate a low-vision experience and force the user to complete the task with a screen reader. Of course, you'll need to use the Chrome browser for this exercise.
 
