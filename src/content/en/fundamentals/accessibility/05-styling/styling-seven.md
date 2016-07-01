@@ -1,10 +1,10 @@
 ---
 layout: shared/narrow
-title: "Accessibility Codelab"
-description: "Accessibility Codelab"
+title: "High-contrast Mode"
+description: "Using high contrast visuals to improve accessibility"
 published_on: 2016-03-01
 updated_on: 2016-03-01
-order: 42
+order: 7
 translation_priority: 0
 authors:
   - megginkearney
@@ -23,15 +23,13 @@ notes:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
 ---
 
-# High-contrast Mode
-
-High-contrast mode allows a user to invert foreground and background colors, which may help text stand out better. For someone with a low vision impairment, high -contrast mode can make it much easier to navigate the content on the page. There are a few ways to get a high-contrast setup on your machine.
+High-contrast mode allows a user to invert foreground and background colors, which may help text stand out better. For someone with a low vision impairment, high-contrast mode can make it much easier to navigate the content on the page. There are a few ways to get a high-contrast setup on your machine.
 
 Operating systems like Mac OSX and Windows offer high-contrast modes that can be enabled for everything at the system level. Or users can install an extension, like the [Chrome High Contrast extension](https://chrome.google.com/webstore/detail/high-contrast/djcfdncoelnlbldjfhinnjlhdjlikmph?hl=en-US) to only enable high-contrast in that specific app.
 
 A useful exercise is to turn on high-contrast settings and verify that all of the UI in your application is still visible.
 
-For example, a navigation bar might use a subtle background color to indicate which page is currently selected. If you view it in high-contrast extension, that subtlety completely disappears, and with it goes the reader's understanding of which page is active.
+For example, a navigation bar might use a subtle background color to indicate which page is currently selected. If you view it in a high-contrast extension, that subtlety may completely disappear, and with it the reader's understanding of which page is active.
 
 Similarly, if you consider the example from the previous lesson, the red underline on the invalid phone number field might be displayed in a bright blue-green color.
 
