@@ -1,10 +1,10 @@
 ---
-layout: shared/narrow
-title: "Accessibility Codelab"
-description: "Accessibility Codelab"
+layout: shared/narrow-pages-list
+title: "Semantics and Navigating Content"
+description: "Introduction to semantics and navigation"
 published_on: 2016-03-01
 updated_on: 2016-03-01
-order: 23
+order: 1
 translation_priority: 0
 authors:
   - megginkearney
@@ -22,8 +22,6 @@ notes:
   problem-solving:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
 ---
-
-# Semantics and Navigating Content
 
 You've learned about affordances, semantics, and how assistive technologies use the accessibility tree to create an alternative user experience for their users. You can see that writing expressive, semantic HTML gives you a lot of accessibility with very little effort, as many elements have both the semantics and supporting behavior built in.
 
