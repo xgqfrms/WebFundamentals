@@ -1,10 +1,10 @@
 ---
 layout: shared/narrow
-title: "Accessibility Codelab"
-description: "Accessibility Codelab"
+title: "Responsive Design and Accessibility"
+description: "Using responsive design patterns for multi-device accessibility"
 published_on: 2016-03-01
 updated_on: 2016-03-01
-order: 38
+order: 3
 translation_priority: 0
 authors:
   - megginkearney
@@ -22,8 +22,6 @@ notes:
   problem-solving:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
 ---
-
-# Responsive Design Patterns for Multi-device Accessibility
 
 We know that it's a good idea to design responsively to provide the best multi-device experience, but responsive design is also a huge win for accessibility.
 
