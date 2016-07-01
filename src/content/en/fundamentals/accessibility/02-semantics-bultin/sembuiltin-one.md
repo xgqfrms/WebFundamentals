@@ -1,7 +1,7 @@
 ---
 layout: shared/narrow-pages-list
-title: "Introduction to Semantics"
-description: "The importance of semantics in accessibility"
+title: "Built-in Semantics"
+description: "The importance of built-in semantics in accessibility"
 published_on: 2016-03-01
 updated_on: 2016-03-01
 order: 1
