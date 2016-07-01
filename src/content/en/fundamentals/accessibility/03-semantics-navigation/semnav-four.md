@@ -1,10 +1,10 @@
 ---
 layout: shared/narrow
-title: "Accessibility Codelab"
-description: "Accessibility Codelab"
+title: "Semantics and Navigating Content Wrap-up"
+description: "Wrap-up for semantics and navigation chapter"
 published_on: 2016-03-01
 updated_on: 2016-03-01
-order: 26
+order: 4
 translation_priority: 0
 authors:
   - megginkearney
@@ -22,8 +22,6 @@ notes:
   problem-solving:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
 ---
-
-# Semantics and Navigating Content Wrap-up
 
 You've seen that the more meaningful your headings are, as well as your link text page semantics, the more usable your page will be to a screen reader user.
 
