@@ -1,10 +1,10 @@
 ---
 layout: shared/narrow
-title: "Accessibility Codelab"
-description: "Accessibility Codelab"
+title: "Mobile Screen Readers"
+description: "Links to information about mobile-specific screen readers"
 published_on: 2016-03-01
 updated_on: 2016-03-01
-order: 39
+order: 4
 translation_priority: 0
 authors:
   - megginkearney
@@ -22,8 +22,6 @@ notes:
   problem-solving:
     - "Catching, identifying, and removing potential accessibility roadblocks before they happen can improve your development process and reduce maintenance requirements."
 ---
-
-# Mobile Screen Readers
 
 There's not a lot to say about mobile screen readers that hasn't been said about desktop screen readers. In this case, it might be best to let the experts speak for themselves. Have a look at the official Android and iOS accessibility docs for more information.
 
