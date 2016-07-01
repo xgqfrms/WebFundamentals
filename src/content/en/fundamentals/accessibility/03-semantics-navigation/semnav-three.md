@@ -1,7 +1,7 @@
 ---
 layout: shared/narrow
-title: "Navigation Options"
-description: "Options for navigating pages via a screen reader"
+title: "Other Navigation Options"
+description: "More options for navigating pages with a screen reader"
 published_on: 2016-03-01
 updated_on: 2016-03-01
 order: 3
