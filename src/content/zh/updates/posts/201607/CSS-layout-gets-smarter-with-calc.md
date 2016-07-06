@@ -1,4 +1,5 @@
-#
+
+*** 
 [WebFundamentals](https://github.com/google/WebFundamentals/blob/master/src/content/en/updates/posts/2012/03/CSS-layout-gets-smarter-with-calc.markdown)
 
 [WebFundamentals_CN](https://github.com/google/WebFundamentals/blob/master/src/content/zh/updates/posts/2012/03/CSS-layout-gets-smarter-with-calc.markdown)
@@ -10,7 +11,7 @@
 
 # CSS-layout-gets-smarter-with-calc
 
-*[example](http://www.imooc.com/code/4395)
+* [example](http://www.imooc.com/code/4395)
 
     .container {
 			width: 560px; 
